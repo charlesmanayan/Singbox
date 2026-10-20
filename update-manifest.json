@@ -1,6 +1,6 @@
 {
-  "versionCode": 118,
-  "versionName": "1.6.8",
-  "apkUrl": "https://github.com/charlesmanayan/triple-c-karaoke/raw/refs/heads/main/TripleC-Karaoke-1.6.8.apk",
-  "notes": "Moves future update checks and APK downloads to the Triple C Karaoke GitHub update channel."
+  "versionCode": 119,
+  "versionName": "1.6.9",
+  "apkUrl": "https://github.com/charlesmanayan/triple-c-karaoke/raw/refs/heads/main/SingBox-Karaoke-1.6.9.apk",
+  "notes": "SingBox branding, refreshed home and search experience, and QR remote connection updates."
 }

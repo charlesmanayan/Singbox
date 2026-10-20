@@ -1,13 +1,13 @@
-# Triple C Karaoke
+# SingBox Karaoke
 
-Triple C Karaoke is an Android karaoke player for Android TV and Android phones.
+SingBox Karaoke is an Android karaoke player for Android TV and Android phones.
 
 ## Download and install
 
-1. Download the newest **TripleC-Karaoke-1.6.8.apk** from this repository.
+1. Download the newest **SingBox-Karaoke-1.6.9.apk** from this repository.
 2. On your Android TV or phone, allow installs from the browser or file manager you used to download the APK.
 3. Open the downloaded APK and choose **Install**.
-4. Open Triple C Karaoke and grant the requested media/storage permissions when you choose a song folder or install the Singbox library.
+4. Open SingBox Karaoke and grant the requested media/storage permissions when you choose a song folder or install the Singbox library.
 
 ## Features
 
@@ -33,7 +33,7 @@ The APK does not include songs, background videos, or SoundFonts. Install or sel
 
 ## Version
 
-Current APK: **1.6.8** (version code 118)
+Current APK: **1.6.9** (version code 119)
 
 ## Notes
 
