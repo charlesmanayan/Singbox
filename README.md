@@ -4,7 +4,7 @@ SingBox Karaoke is an Android karaoke player for Android TV and Android phones.
 
 ## Download and install
 
-1. Download the newest **SingBox-Karaoke-1.6.10.apk** from this repository.
+1. Download the newest **SingBox-Karaoke-1.6.11.apk** from this repository.
 2. On your Android TV or phone, allow installs from the browser or file manager you used to download the APK.
 3. Open the downloaded APK and choose **Install**.
 4. Open SingBox Karaoke and grant the requested media/storage permissions when you choose a song folder or install the Singbox library.
@@ -33,7 +33,7 @@ The APK does not include songs, background videos, or SoundFonts. Install or sel
 
 ## Version
 
-Current APK: **1.6.10** (version code 120)
+Current APK: **1.6.11** (version code 121)
 
 ## Notes
 
