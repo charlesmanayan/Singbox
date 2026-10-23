@@ -1,6 +1,6 @@
 {
-  "versionCode": 121,
-  "versionName": "1.6.11",
-  "apkUrl": "https://github.com/charlesmanayan/triple-c-karaoke/raw/refs/heads/main/SingBox-Karaoke-1.6.11.apk",
-  "notes": "Brighter full-screen SingBox loading artwork with edge-to-edge progress, safer karaoke cue volume, and artist names in All control search results."
+  "versionCode": 122,
+  "versionName": "1.6.12",
+  "apkUrl": "https://github.com/charlesmanayan/triple-c-karaoke/raw/refs/heads/main/SingBox-Karaoke-1.6.12.apk",
+  "notes": "Improved performance for Song Book PDF creation, a downloadable Song Book on Home, compact lyric-safe QR remote controls, and refined SingBox library tools."
 }
