@@ -1,6 +1,6 @@
 {
-  "versionCode": 125,
-  "versionName": "1.6.15",
-  "apkUrl": "https://github.com/charlesmanayan/Singbox/raw/refs/heads/main/SingBox-Karaoke-1.6.15.apk",
-  "notes": "Automatically checks the managed Google Drive library over Wi-Fi and updates Music/Singbox when a newer song-library ZIP is published."
+  "versionCode": 126,
+  "versionName": "1.6.16",
+  "apkUrl": "https://github.com/charlesmanayan/Singbox/raw/refs/heads/main/SingBox-Karaoke-1.6.16.apk",
+  "notes": "Fixes automatic APK update detection by checking the current Singbox GitHub release manifest."
 }
