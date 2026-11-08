@@ -1,6 +1,6 @@
 {
-  "versionCode": 123,
-  "versionName": "1.6.13",
-  "apkUrl": "https://github.com/charlesmanayan/Singbox/raw/refs/heads/main/SingBox-Karaoke-1.6.13.apk",
-  "notes": "Download Library now installs the public Singbox library from Google Drive with resumable transfer, ZIP verification, and safe extraction into Music/Singbox."
+  "versionCode": 124,
+  "versionName": "1.6.14",
+  "apkUrl": "https://github.com/charlesmanayan/Singbox/raw/refs/heads/main/SingBox-Karaoke-1.6.14.apk",
+  "notes": "Fixes Google Drive library ZIP extraction: the bundled singbox/idx/singbox.idx and singbox.blob files now install correctly into Music/Singbox."
 }
