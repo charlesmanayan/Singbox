@@ -1,6 +1,6 @@
 {
-  "versionCode": 126,
-  "versionName": "1.6.16",
-  "apkUrl": "https://github.com/charlesmanayan/Singbox/raw/refs/heads/main/SingBox-Karaoke-1.6.16.apk",
-  "notes": "Fixes automatic APK update detection by checking the current Singbox GitHub release manifest."
+  "versionCode": 127,
+  "versionName": "1.6.17",
+  "apkUrl": "https://github.com/charlesmanayan/Singbox/raw/refs/heads/main/SingBox-Karaoke-1.6.17.apk",
+  "notes": "Moves the library download to a GitHub Release asset to avoid Google Drive quota limits."
 }
