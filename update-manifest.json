@@ -1,6 +1,6 @@
 {
-  "versionCode": 128,
-  "versionName": "1.6.18",
-  "apkUrl": "https://github.com/charlesmanayan/Singbox/raw/refs/heads/main/SingBox-Karaoke-1.6.18.apk",
-  "notes": "Improves the SingBox library download flow and mutes keypad number voice during active karaoke or media playback."
+  "versionCode": 129,
+  "versionName": "1.6.19",
+  "apkUrl": "https://github.com/charlesmanayan/Singbox/releases/download/v1.6.19/app-debug.apk",
+  "notes": "Stores the karaoke library in secure SingBox app storage without broad Files or media permission prompts."
 }
